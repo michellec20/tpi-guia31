@@ -1,0 +1,26 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<?xml-stylesheet type="text/css" href="ejercicio1a.css"?>
+<!-- ejemplo1.xml  CC18064-->
+<fichero>
+<ficha id="1" fechaingreso="1/11/2012">
+    <nombre>Antonio</nombre>
+    <apellido>Barbero</apellido>
+    <direccion>Calle de Los Andes, 45</direccion>
+   </ficha>
+   
+   <!-- ejercicio1a.xml  CC18064-->
+ <ficha2 id="2" fechaingreso="1/09/2022">
+      <carnet>CC18064</carnet>
+      <nombre>Karina Michelle</nombre>
+      <apellido>Cárcamo Carrillo</apellido>
+      <contacto>
+        <direccion>Cojutepeque, Cuscatlán</direccion>
+        <telefono>
+          <tipo>Celular</tipo>
+          <numero>7787-1737</numero>
+        </telefono>
+        <email>cc18064@ues.edu.sv</email>
+      </contacto>
+    </ficha2>
+</fichero>

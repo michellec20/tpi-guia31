@@ -1,0 +1,9 @@
+/*ejercicio2a.css  CC18064*/
+
+pais {background-color: lightgreen;}
+moneda {color: gray; display: inline;}
+codigo {color: white; display: inline;}
+departamento {background-color: lightgray; display: block;}
+cabecera {color: white; display: inline;}
+habitantes {color: white; display: inline;}
+altura {color: white; display: inline;}

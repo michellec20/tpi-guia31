@@ -1,0 +1,12 @@
+/*ejercicio1a.css  CC18064*/
+
+fichero {background-color: lightskyblue;}
+ficha {background-color: lightgray; display: block;}
+carnet {color: gray; display: inline;}
+nombre {color: white; display: inline;}
+apellido {color: aqua; display: inline;}
+contacto {background-color: lightpink;}
+tipo {color: gray; display: inline;}
+numero {color: gray; display: inline;}
+email {color: gray; display: inline;}
+direccion {color: aqua; display: none;}

@@ -1,0 +1,8 @@
+/*ejemplo2.css  CC18064*/
+
+pais {background-color:lightCoral;}
+
+departamento {background-color:lightYellow; display:block;}
+cabecera {color:black; display:inline;} 
+habitantes {color:rebeccaPurple; display:inline;}
+altura {color:rebeccaPurple; font-size:1cm; display:none;}
